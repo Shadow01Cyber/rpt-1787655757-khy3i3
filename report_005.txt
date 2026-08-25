@@ -1,0 +1,7 @@
+VIOLATION REPORT — @test_target_x
+
+TIME-SENSITIVE: @test_target_x linked a live phishing payload. Block before more victims.
+
+Violation: Scam. The operator rotates aliases to evade prior enforcement actions.
+
+Ref: https://t.me/test_target_x
