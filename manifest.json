@@ -1,0 +1,14 @@
+{
+  "channel": "@test_target_x",
+  "violation": "Scam",
+  "count": 5,
+  "extra_link": "https://t.me/test_target_x/12",
+  "generated": "2026-08-25T11:02:39",
+  "files": [
+    "report_001.txt",
+    "report_002.txt",
+    "report_003.txt",
+    "report_004.txt",
+    "report_005.txt"
+  ]
+}
