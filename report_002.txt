@@ -1,0 +1,7 @@
+VIOLATION REPORT — @test_target_x
+
+STOP protecting this channel. @test_target_x is a cancer on the platform and you know it.
+
+Violation: Scam. The channel funnels victims into an off-platform payment scheme.
+
+Ref: https://osint.vault/tf7vfd54
